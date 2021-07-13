@@ -1,1 +1,4 @@
 theme: jekyll-theme-cayman
+
+- name: ShellCheck
+  uses: ludeeus/action-shellcheck@1.1.0
